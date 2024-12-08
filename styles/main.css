@@ -80,7 +80,7 @@ form {
     outline: none;
     max-width: 317px;
     width: 100%;
-    height: 24px;
+    height: 31px;
     margin: 12px 14px;
 }
 #inputEmail::placeholder {
@@ -120,5 +120,230 @@ form {
     color: white;
     font-size: 16px;
     font-weight: 600;
-
+}
+#mainFormDiv {
+    /* display: inline-block; */
+    max-width: 546px;
+    width: 100%;
+    height: 503px;
+    margin: 0 auto;
+    margin-top: 72px;
+    padding: 40px 32px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+    margin-bottom: 99px;
+}
+#thirdSection {
+    /* text-align: center; */
+}
+#submitFormDiv {
+    max-width: 216px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 24px;
+}
+#submitFormText {
+    font-size: 40px;
+    font-weight: 500;
+    color: #181D27;
+    margin: 0;
+}
+#textFormDiv {
+    max-width: 482px;
+    width: 100%;
+    height: 74px;
+    margin-bottom: 24px;
+}
+#fullNameDiv {
+    max-width: 482px;
+    width: 100%;
+    height: 18px;
+    margin-bottom: 8px;
+}
+#fullNameLabel {
+    font-size: 14px;
+}
+#textInputDiv {
+    max-width: 482px;
+    width: 100%;
+    height: 48px;
+    margin-top: 8px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    margin-bottom: 24px;
+}
+#textInput {
+    max-width: 325px;
+    width: 100%;
+    height: 31px;
+    border: none;
+    outline: none;
+    background-color: #EBF8FE;
+    margin: 8px 16px;
+}
+#textInput::placeholder {
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#emailFormDiv {
+    max-width: 482px;
+    width: 100%;
+    height: 74px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#emailDiv {
+    max-width: 382px;
+    width: 100%;
+    height: 18px;
+    margin-bottom: 8px;
+}
+#emailLabel {
+    font-size: 14px;
+}
+#emailInputDiv {
+    max-width: 482px;
+    width: 100%;
+    height: 48px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+}
+#emailInput {
+    max-width: 325px;
+    width: 100%;
+    height: 31px;
+    border: none;
+    outline: none;
+    background-color: #EBF8FE;
+    margin: 8px 16px;
+}
+#emailInput::placeholder {
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#firstRadioDiv {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#radioLabel {
+    font-size: 14px;
+    display: block;
+    margin-bottom: 7px;
+}
+#firstRadioInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#firstYes {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#secondRadioDiv {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#secondRadioInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#secondYes {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#thirdRadioDiv {
+    display: inline-block;
+    margin-bottom: 24px;
+}
+#thirdRadioInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#thirdYes {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#checkBoxLabel {
+    display: block;
+    width: 371px;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+#firstCheckBoxDiv {
+    display: inline-block;
+}
+#firstCheckBoxInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#textC {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#secondCheckBoxDiv {
+    display: inline-block;
+}
+#secondCheckBoxInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#textCplus {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#thirdCheckBoxDiv {
+    display: inline-block;
+}
+#thirdCheckBoxInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#textJava {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
+}
+#fourthCheckBoxDiv {
+    display: inline-block;
+}
+#fourthCheckBoxInput {
+    vertical-align: middle;
+    margin: 0;
+    margin-right: 11px;
+}
+#textPython {
+    margin: 0;
+    display: inline-block;
+    width: 317px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #6D5F8B;
 }
